@@ -1,0 +1,265 @@
+
+table{
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+table thead{
+    background: hsl(0, 28%, 51%);
+    text-align: center;
+   
+}
+
+table tr td{
+    font-size: 20;
+    text-align: center;
+   
+}
+
+.good{
+    text-align: center;
+    color: rgb(97, 229, 9);
+
+}
+
+.medium{
+    text-align: center;
+    color: rgb(232, 163, 0);
+}
+div{ 
+    color: rgb(159, 100, 237);
+    background: hsla(0, 63%, 76%, 0.724);
+    text-align: center;
+}
+.clear{
+    font-size: 20;
+    text-align: center;
+    align-items: center;
+    
+}
+
+.good1{
+    text-align: center;
+    color: rgb(97, 229, 9);
+
+}
+.good2{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good3{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good4{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good5{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good6{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good7{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good8{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good9{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good10{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good11{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good12{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good13{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good14{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good15{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good16{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good17{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good18{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good19{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good20{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good21{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good22{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good23{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good23{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good24{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good25{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good26{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good27{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good28{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good29{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good30{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good31{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good32{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good33{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good34{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good35{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good36{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good37{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good38{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good39{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good40{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good41{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good42{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good43{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good44{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good45{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good46{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good47{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good48{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good49{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good50{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good51{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good52{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good53{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good54{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good55{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good56{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}.good57{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good58{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.good59{
+    text-align: center;
+    color: rgb(97, 229, 9);
+}
+.medium1{
+    text-align: center;
+    color: rgb(232, 163, 0);
+}
+.medium2{
+    text-align: center;
+    color: rgb(232, 163, 0);
+}
+.medium3{
+    text-align: center;
+    color: rgb(232, 163, 0);
+}
